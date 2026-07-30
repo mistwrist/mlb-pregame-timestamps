@@ -1,0 +1,60 @@
+# MLB 타임스탬프 수집기 — public repo 전용 (Actions 분 무제한)
+#
+# 무엇: 라인업 게시 / 선발(프로버블) 변경 / 심판진 공개 / 지붕·날씨 갱신의 **시각**만 기록.
+#       내용이 아니라 "몇 시 몇 분에 공개됐나"다. 소급 취득이 불가능해 전향으로만 쌓인다.
+# 소스: MLB StatsAPI (공식·공개·키 불요). 시크릿을 쓰지 않는다.
+#
+# 왜 별도 public repo 인가
+#   본가(private)는 Actions 분이 한정돼 있고, 15분 간격 수집기 하나가 월 ~1,700분을 먹는다.
+#   public repo 는 Actions 가 무제한 무료다. 이 수집기는 시크릿도 전략 코드도 없어 공개해도 안전하다.
+name: mlb-collectors
+
+on:
+  schedule:
+    - cron: "*/15 14-23 * * *"   # UTC 14~23 = ET 10:00~19:59
+    - cron: "*/15 0-3 * * *"     # UTC 00~03 = ET 20:00~23:59
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collectors
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: "3.11" }
+      - run: pip install requests
+
+      - name: collect
+        run: |
+          python collect_lineup_timestamps.py
+          python collect_pregame_conditions.py
+
+      # push 를 || true 로 삼키지 않는다.
+      #   원본 초안은 `git push || true` 였다. 그러면 push 가 며칠 실패해도 아무도 모르고,
+      #   그 사이 수집한 이벤트는 러너와 함께 사라진다. 소급 불가 데이터라 되돌릴 방법이 없다.
+      #   (본가 저장소에서 정확히 이 패턴 때문에 AN proreport 가 7주간 조용히 결손됐다.)
+      - name: commit and push
+        run: |
+          git config user.name "mlb-collectors-bot"
+          git config user.email "actions@github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "변경 없음 - 커밋 생략"
+            exit 0
+          fi
+          git commit -m "collect $(date -u +%FT%TZ)"
+          for i in 1 2 3; do
+            git pull --rebase --autostash && git push && exit 0
+            echo "push 실패 ($i/3) - 5초 후 재시도"
+            sleep 5
+          done
+          echo "::error::3회 시도 후에도 push 실패 - 이번 회차 수집분이 유실된다"
+          exit 1
