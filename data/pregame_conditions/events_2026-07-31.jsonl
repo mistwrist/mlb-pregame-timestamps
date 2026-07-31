@@ -1,0 +1,2 @@
+{"ts_utc": "2026-07-31T16:03:27.291439+00:00", "gamePk": "824651", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Cloudy", "temp": "79", "wind": "12 mph, L To R"}}
+{"ts_utc": "2026-07-31T16:03:27.291439+00:00", "gamePk": "824651", "type": "officials_posted", "officials": [{"name": "Tom Hanahan", "type": "Home Plate"}, {"name": "Ron Kulpa", "type": "First Base"}, {"name": "Scott Barry", "type": "Second Base"}, {"name": "Manny Gonzalez", "type": "Third Base"}]}
