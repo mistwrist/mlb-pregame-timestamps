@@ -1,0 +1,8 @@
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "823431", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 605400, "away_probable": null, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "823520", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 693645, "away_probable": 700241, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "823757", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 687075, "away_probable": 696149, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "824647", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 571510, "away_probable": null, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "822867", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": null, "away_probable": 657277, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "824160", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 664299, "away_probable": 669456, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "824324", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 547179, "away_probable": 693855, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-03T05:52:08.980023+00:00", "gamePk": "825095", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 694297, "away_probable": 650633, "home_lineup": [], "away_lineup": []}}
