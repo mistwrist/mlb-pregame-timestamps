@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-08T15:47:40.351463+00:00", "gamePk": "823514", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "91", "wind": "11 mph, Out To LF"}}
+{"ts_utc": "2026-08-08T15:47:40.351463+00:00", "gamePk": "823514", "type": "officials_posted", "officials": [{"name": "Dan Merzel", "type": "Home Plate"}, {"name": "Dan Bellino", "type": "First Base"}, {"name": "Derek Thomas", "type": "Second Base"}, {"name": "Mark Ripperger", "type": "Third Base"}]}
