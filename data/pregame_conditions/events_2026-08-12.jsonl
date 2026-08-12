@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-12T15:02:06.937170+00:00", "gamePk": "823672", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "82", "wind": "5 mph, In From CF"}}
+{"ts_utc": "2026-08-12T15:02:06.937170+00:00", "gamePk": "823672", "type": "officials_posted", "officials": [{"name": "Tyler Jones", "type": "Home Plate"}, {"name": "Bruce Dreckman", "type": "First Base"}, {"name": "Adam Hamari", "type": "Second Base"}, {"name": "Todd Tichenor", "type": "Third Base"}]}
