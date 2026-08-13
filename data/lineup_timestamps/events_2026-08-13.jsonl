@@ -7,3 +7,10 @@
 {"ts_utc": "2026-08-13T05:22:04.653771+00:00", "gamePk": "823669", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 671737, "away_probable": 605400, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-08-13T05:22:04.653771+00:00", "gamePk": "823995", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 700712, "away_probable": 594798, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-08-13T05:22:04.653771+00:00", "gamePk": "823915", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 808963, "away_probable": 675660, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "824238", "type": "lineup_posted", "side": "home", "lineup": [650402, 693307, 805808, 680664, 679529, 701678, 703601, 595879, 701162]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "824238", "type": "lineup_posted", "side": "away", "lineup": [680757, 800050, 608070, 663993, 666176, 683953, 694197, 595978, 677587]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "823829", "type": "lineup_posted", "side": "home", "lineup": [805300, 669364, 672640, 665052, 682663, 677870, 683357, 691594, 665923]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "823829", "type": "lineup_posted", "side": "away", "lineup": [687462, 664040, 668804, 693304, 699013, 694378, 663968, 669707, 804668]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "823508", "type": "lineup_posted", "side": "away", "lineup": [668227, 677594, 686527, 663728, 647304, 680977, 642215, 640902, 660844]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "824561", "type": "lineup_posted", "side": "home", "lineup": [805367, 545341, 678246, 695731, 686668, 695657, 700337, 803011, 682668]}
+{"ts_utc": "2026-08-13T15:02:21.871386+00:00", "gamePk": "824561", "type": "lineup_posted", "side": "away", "lineup": [682829, 701398, 668709, 663886, 553993, 667472, 699302, 680574, 663647]}
