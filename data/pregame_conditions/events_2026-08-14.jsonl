@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-14T15:58:06.426097+00:00", "gamePk": "824643", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "74", "wind": "9 mph, In From CF"}}
+{"ts_utc": "2026-08-14T15:58:06.426097+00:00", "gamePk": "824643", "type": "officials_posted", "officials": [{"name": "Paul Clemons", "type": "Home Plate"}, {"name": "Mark Wegner", "type": "First Base"}, {"name": "Steven Jaschinski", "type": "Second Base"}, {"name": "Nate Tomlinson", "type": "Third Base"}]}
