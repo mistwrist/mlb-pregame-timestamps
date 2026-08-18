@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-18T18:44:19.456965+00:00", "gamePk": "824398", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "79", "wind": "6 mph, In From LF"}}
+{"ts_utc": "2026-08-18T18:44:19.456965+00:00", "gamePk": "824398", "type": "officials_posted", "officials": [{"name": "Jordan Baker", "type": "Home Plate"}, {"name": "Stu Scheurwater", "type": "First Base"}, {"name": "Steven Jaschinski", "type": "Second Base"}, {"name": "Rob Drake", "type": "Third Base"}]}
