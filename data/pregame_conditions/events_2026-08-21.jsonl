@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-21T17:33:34.439794+00:00", "gamePk": "823746", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Roof Closed", "temp": "72", "wind": "0 mph, None"}}
+{"ts_utc": "2026-08-21T17:33:34.439794+00:00", "gamePk": "823746", "type": "officials_posted", "officials": [{"name": "Todd Tichenor", "type": "Home Plate"}, {"name": "John Tumpane", "type": "First Base"}, {"name": "Adam Hamari", "type": "Second Base"}, {"name": "Clint Vondrak", "type": "Third Base"}]}
