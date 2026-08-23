@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-23T14:28:15.441634+00:00", "gamePk": "824799", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Sunny", "temp": "81", "wind": "10 mph, Out To RF"}}
+{"ts_utc": "2026-08-23T14:28:15.441634+00:00", "gamePk": "824799", "type": "officials_posted", "officials": [{"name": "Edwin Moscoso", "type": "Home Plate"}, {"name": "Dillon Wilson", "type": "First Base"}, {"name": "Vic Carapazza", "type": "Second Base"}, {"name": "Nic Lentz", "type": "Third Base"}]}
