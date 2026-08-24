@@ -1,0 +1,2 @@
+{"ts_utc": "2026-08-24T18:47:52.647107+00:00", "gamePk": "824235", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "76", "wind": "12 mph, Out To CF"}}
+{"ts_utc": "2026-08-24T18:47:52.647107+00:00", "gamePk": "824235", "type": "officials_posted", "officials": [{"name": "Quinn Wolcott", "type": "Home Plate"}, {"name": "Paul Clemons", "type": "First Base"}, {"name": "Adrian Johnson", "type": "Second Base"}, {"name": "Dexter Kelley", "type": "Third Base"}]}
