@@ -13,3 +13,4 @@
 {"ts_utc": "2026-08-29T04:17:58.268396+00:00", "gamePk": "823741", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 675660, "away_probable": 615698, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-08-29T04:17:58.268396+00:00", "gamePk": "824961", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": null, "away_probable": 669358, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-08-29T04:17:58.268396+00:00", "gamePk": "823986", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 696270, "away_probable": 650911, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-08-29T05:07:45.761411+00:00", "gamePk": "824961", "type": "probable_change", "side": "home", "from": null, "to": 678022}
