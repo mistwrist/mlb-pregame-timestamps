@@ -1,0 +1,2 @@
+{"ts_utc": "2026-09-05T16:40:49.427816+00:00", "gamePk": "823577", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Partly Cloudy", "temp": "80", "wind": "10 mph, L To R"}}
+{"ts_utc": "2026-09-05T16:40:49.427816+00:00", "gamePk": "823577", "type": "officials_posted", "officials": [{"name": "Jeremie Rehak", "type": "Home Plate"}, {"name": "David Rackley", "type": "First Base"}, {"name": "Dan Iassogna", "type": "Second Base"}, {"name": "Brock Ballou", "type": "Third Base"}]}
