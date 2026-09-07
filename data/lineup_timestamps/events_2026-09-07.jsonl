@@ -1,0 +1,11 @@
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823415", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 666200, "away_probable": 656550, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823820", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 691587, "away_probable": 804636, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "824715", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": null, "away_probable": 680570, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "824793", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 669432, "away_probable": 676282, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "824062", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 702070, "away_probable": null, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823742", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 688107, "away_probable": 571510, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "824229", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 675512, "away_probable": null, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823254", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 601713, "away_probable": 663623, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823175", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 657277, "away_probable": 700241, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "823902", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": null, "away_probable": 695505, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-07T07:26:39.331180+00:00", "gamePk": "824958", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 682052, "away_probable": 656302, "home_lineup": [], "away_lineup": []}}
