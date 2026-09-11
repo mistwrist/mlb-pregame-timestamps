@@ -1,0 +1,2 @@
+{"ts_utc": "2026-09-11T17:39:54.453248+00:00", "gamePk": "824631", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Sunny", "temp": "76", "wind": "6 mph, In From RF"}}
+{"ts_utc": "2026-09-11T17:39:54.453248+00:00", "gamePk": "824631", "type": "officials_posted", "officials": [{"name": "Derek Thomas", "type": "Home Plate"}, {"name": "Lance Barksdale", "type": "First Base"}, {"name": "Ryan Wills", "type": "Second Base"}, {"name": "Will Little", "type": "Third Base"}]}
