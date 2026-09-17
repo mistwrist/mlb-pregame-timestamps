@@ -7,3 +7,11 @@
 {"ts_utc": "2026-09-17T08:17:26.623506+00:00", "gamePk": "824548", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 607200, "away_probable": 664285, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-09-17T08:17:26.623506+00:00", "gamePk": "822845", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 641302, "away_probable": 543243, "home_lineup": [], "away_lineup": []}}
 {"ts_utc": "2026-09-17T08:17:26.623506+00:00", "gamePk": "823978", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 700712, "away_probable": 671737, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "823334", "type": "lineup_posted", "side": "home", "lineup": [804606, 665833, 668804, 804668, 664040, 693304, 682927, 669707, 680779]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "823334", "type": "lineup_posted", "side": "away", "lineup": [668930, 800325, 694192, 683734, 596142, 687401, 686217, 666310, 666152]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "824464", "type": "lineup_posted", "side": "home", "lineup": [667472, 682829, 701398, 663886, 682877, 680574, 699302, 663647, 670770]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "824464", "type": "lineup_posted", "side": "away", "lineup": [669242, 518692, 663656, 606192, 571970, 800543, 676439, 690976, 500743]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "822924", "type": "lineup_posted", "side": "home", "lineup": [650490, 666018, 691406, 689414, 676356, 802415, 668723, 680700, 670764]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "822924", "type": "lineup_posted", "side": "away", "lineup": [703607, 643446, 671732, 680869, 622268, 695720, 675961, 641680, 672016]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "824305", "type": "lineup_posted", "side": "home", "lineup": [664983, 681393, 694249, 681198, 691720, 666160, 687859, 664954, 691728]}
+{"ts_utc": "2026-09-17T18:03:37.758960+00:00", "gamePk": "824305", "type": "lineup_posted", "side": "away", "lineup": [665487, 687957, 592518, 664034, 701538, 593428, 669134, 630105, 669392]}
