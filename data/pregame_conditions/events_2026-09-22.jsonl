@@ -1,0 +1,2 @@
+{"ts_utc": "2026-09-22T18:00:23.767627+00:00", "gamePk": "823543", "type": "weather_update", "from": {"condition": null, "temp": null, "wind": null}, "to": {"condition": "Cloudy", "temp": "69", "wind": "15 mph, L To R"}}
+{"ts_utc": "2026-09-22T18:00:23.767627+00:00", "gamePk": "823543", "type": "officials_posted", "officials": [{"name": "Sean Barber", "type": "Home Plate"}, {"name": "Gabe Morales", "type": "First Base"}, {"name": "James Hoye", "type": "Second Base"}, {"name": "D.J. Reyburn", "type": "Third Base"}]}
