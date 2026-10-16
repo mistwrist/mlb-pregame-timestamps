@@ -1,1 +1,2 @@
 {"ts_utc": "2026-10-16T07:30:59.930479+00:00", "gamePk": "849817", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": null, "away_probable": 607259, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-10-16T17:53:48.544054+00:00", "gamePk": "849817", "type": "probable_change", "side": "home", "from": null, "to": 542888}
