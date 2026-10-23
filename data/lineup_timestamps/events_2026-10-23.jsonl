@@ -1,1 +1,3 @@
 {"ts_utc": "2026-10-23T08:09:22.989819+00:00", "gamePk": "849805", "type": "first_seen", "payload": {"status": "Scheduled", "home_probable": 694819, "away_probable": 607259, "home_lineup": [], "away_lineup": []}}
+{"ts_utc": "2026-10-23T21:27:51.891976+00:00", "gamePk": "849805", "type": "lineup_posted", "side": "home", "lineup": [694192, 641343, 592885, 661388, 668930, 669003, 806198, 686217, 666152]}
+{"ts_utc": "2026-10-23T21:27:51.891976+00:00", "gamePk": "849805", "type": "lineup_posted", "side": "away", "lineup": [650490, 666018, 802415, 691406, 689414, 676356, 683748, 810938, 670764]}
