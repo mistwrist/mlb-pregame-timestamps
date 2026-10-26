@@ -1,1 +1,1 @@
-{"849804": {"weather": {"condition": null, "temp": null, "wind": null}, "officials": []}}
+{"849804": {"weather": {"condition": "Dome", "temp": "70", "wind": "0 mph, None"}, "officials": [{"name": "Nic Lentz", "type": "Home Plate"}, {"name": "Vic Carapazza", "type": "First Base"}, {"name": "Dan Bellino", "type": "Second Base"}, {"name": "Tripp Gibson", "type": "Third Base"}, {"name": "Gabe Morales", "type": "Left Field"}, {"name": "Jim Wolf", "type": "Right Field"}]}}
